@@ -835,170 +835,99 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 #EXTM3U
 
 ############################
-# Toronto Raptors vs. Boston Celtics — 8:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Boston Celtics 8:00am
+# Minnesota Timberwolves vs. Cleveland Cavaliers — 2:00 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Minnesota Timberwolves vs. Cleveland Cavaliers 2:00 AM
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/bostonceltics/index.m3u8
+https://gg.poocloud.in/clevelandcavaliers/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Boston Celtics 8:00am
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Minnesota Timberwolves vs. Cleveland Cavaliers 2:00 AM
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 https://shorten.is/nba1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Boston Celtics 8:00am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Minnesota Timberwolves vs. Cleveland Cavaliers 2:00 AM
 https://shorten.is/nba1c
 
 
 ############################
-# Philadelphia 76ers vs. Orlando Magic — 8:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Philadelphia 76ers vs. Orlando Magic 8:00am
+# Miami Heat vs. Indiana Pacers — 8:00 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Miami Heat vs. Indiana Pacers 8:00 AM
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/orlandomagic/index.m3u8
+https://gg.poocloud.in/indianapacers/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Philadelphia 76ers vs. Orlando Magic 8:00am
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Miami Heat vs. Indiana Pacers 8:00 AM
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 https://shorten.is/nba2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Philadelphia 76ers vs. Orlando Magic 8:00am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Miami Heat vs. Indiana Pacers 8:00 AM
 https://shorten.is/nba2c
 
 
 ############################
-# New Orleans Pelicans vs. Washington Wizards — 8:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New Orleans Pelicans vs. Washington Wizards 8:00am
+# LA Clippers vs. Detroit Pistons — 8:30 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- LA Clippers vs. Detroit Pistons 8:30 AM
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/washingtonwizards/index.m3u8
+https://gg.poocloud.in/detroitpistons/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New Orleans Pelicans vs. Washington Wizards 8:00am
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- LA Clippers vs. Detroit Pistons 8:30 AM
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 https://shorten.is/nba3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New Orleans Pelicans vs. Washington Wizards 8:00am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- LA Clippers vs. Detroit Pistons 8:30 AM
 https://shorten.is/nba3c
 
 
 ############################
-# LA Clippers vs. Brooklyn Nets — 8:30am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- LA Clippers vs. Brooklyn Nets 8:30am
+# San Antonio Spurs vs. Boston Celtics — 9:00 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- San Antonio Spurs vs. Boston Celtics 9:00 AM
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/brooklynnets/index.m3u8
+https://gg.poocloud.in/bostonceltics/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- LA Clippers vs. Brooklyn Nets 8:30am
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- San Antonio Spurs vs. Boston Celtics 9:00 AM
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 https://shorten.is/nba4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- LA Clippers vs. Brooklyn Nets 8:30am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- San Antonio Spurs vs. Boston Celtics 9:00 AM
 https://shorten.is/nba4c
 
 
 ############################
-# Oklahoma City Thunder vs. Memphis Grizzlies — 9:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Oklahoma City Thunder vs. Memphis Grizzlies 9:00am
+# Dallas Mavericks vs. Chicago Bulls — 9:00 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Dallas Mavericks vs. Chicago Bulls 9:00 AM
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/memphisgrizzlies/index.m3u8
+https://gg.poocloud.in/chicagobulls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Oklahoma City Thunder vs. Memphis Grizzlies 9:00am
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Dallas Mavericks vs. Chicago Bulls 9:00 AM
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 https://shorten.is/nba5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Oklahoma City Thunder vs. Memphis Grizzlies 9:00am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Dallas Mavericks vs. Chicago Bulls 9:00 AM
 https://shorten.is/nba5c
 
 
 ############################
-# Atlanta Hawks vs. Denver Nuggets — 10:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Atlanta Hawks vs. Denver Nuggets 10:00am
+# Charlotte Hornets vs. Utah Jazz — 10:30 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Charlotte Hornets vs. Utah Jazz 10:30 AM
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/denvernuggets/index.m3u8
+https://gg.poocloud.in/utahjazz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Atlanta Hawks vs. Denver Nuggets 10:00am
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Charlotte Hornets vs. Utah Jazz 10:30 AM
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 https://shorten.is/nba6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Atlanta Hawks vs. Denver Nuggets 10:00am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Charlotte Hornets vs. Utah Jazz 10:30 AM
 https://shorten.is/nba6c
-
-
-############################
-# New York Knicks vs. Phoenix Suns — 10:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Phoenix Suns 10:00am
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/phoenixsuns/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Phoenix Suns 10:00am
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://shorten.is/nba7
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Phoenix Suns 10:00am
-https://shorten.is/nba7c
-
-
-############################
-# Sacramento Kings vs. Golden State Warriors — 11:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Sacramento Kings vs. Golden State Warriors 11:00am
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Sacramento Kings vs. Golden State Warriors 11:00am
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://shorten.is/nba8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Sacramento Kings vs. Golden State Warriors 11:00am
-https://shorten.is/nba8c
-
-
-############################
-# Houston Rockets vs. Portland Trail Blazers — 11:00am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Houston Rockets vs. Portland Trail Blazers 11:00am
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/portlandtrailblazers/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Houston Rockets vs. Portland Trail Blazers 11:00am
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://shorten.is/nba9
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Houston Rockets vs. Portland Trail Blazers 11:00am
-https://shorten.is/nba9c
-
-
-############################
-# Milwaukee Bucks vs. Los Angeles Lakers — 11:30am
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Milwaukee Bucks vs. Los Angeles Lakers 11:30am
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/
-https://gg.poocloud.in/losangeleslakers/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Milwaukee Bucks vs. Los Angeles Lakers 11:30am
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://shorten.is/nba10
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Milwaukee Bucks vs. Los Angeles Lakers 11:30am
-https://shorten.is/nba10c
-
-
-
-
-
-
-
 
 
 
