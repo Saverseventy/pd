@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="Conv",GTVu
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/?deviceId=02:00:00:00:00:00
+https://conv.honortvph.totalh.net/1179/manifest.mpd
+
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="Conv",GTVu
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/?deviceId=02:00:00:00:00:00
+https://conv.honortvph.totalh.net/1179/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="Conv",GTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
