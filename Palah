@@ -1,7 +1,19 @@
 #EXTM3U
 
 #EXTM3U
+# Toronto Raptors vs. Indiana Pacers — 8:00 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Indiana Pacers 8:00 AM
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+https://strm.poocloud.in/snooker/index.m3u8
 
+# Toronto Raptors vs. Indiana Pacers — 8:00 AM (PH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Indiana Pacers 8:00 AM
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+https://strm.poocloud.in/secure/ErILCLBOZZBRDOkdoTZFzvetmpyHuZsQ/snooker/index.m3u8
 #EXTINF:-1 tvg-name="Widevine Stream" group-title="Widevine",Widevine EZDRM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
