@@ -837,135 +837,175 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 #EXTM3U
 
 ############################
-# Toronto Raptors vs. Indiana Pacers — 8:00 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Indiana Pacers 8:00 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# Memphis Grizzlies vs. Orlando Magic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Memphis Grizzlies vs. Orlando Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa1
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Indiana Pacers 8:00 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Memphis Grizzlies vs. Orlando Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Toronto Raptors vs. Indiana Pacers 8:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Memphis Grizzlies vs. Orlando Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba1c
 
 
 ############################
-# Cleveland Cavaliers vs. Philadelphia 76ers — 8:00 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Cleveland Cavaliers vs. Philadelphia 76ers 8:00 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# Phoenix Suns vs. Detroit Pistons
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Phoenix Suns vs. Detroit Pistons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa2
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Cleveland Cavaliers vs. Philadelphia 76ers 8:00 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Phoenix Suns vs. Detroit Pistons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Cleveland Cavaliers vs. Philadelphia 76ers 8:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Phoenix Suns vs. Detroit Pistons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba2c
 
 
 ############################
-# Utah Jazz vs. Chicago Bulls — 9:00 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Utah Jazz vs. Chicago Bulls 9:00 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# Boston Celtics vs. Miami Heat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Boston Celtics vs. Miami Heat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa3
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Utah Jazz vs. Chicago Bulls 9:00 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Boston Celtics vs. Miami Heat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Utah Jazz vs. Chicago Bulls 9:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Boston Celtics vs. Miami Heat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba3c
 
 
 ############################
-# Brooklyn Nets vs. New Orleans Pelicans — 9:00 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Brooklyn Nets vs. New Orleans Pelicans 9:00 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# Oklahoma City Thunder vs. Houston Rockets
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Oklahoma City Thunder vs. Houston Rockets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa4
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Brooklyn Nets vs. New Orleans Pelicans 9:00 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Oklahoma City Thunder vs. Houston Rockets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Brooklyn Nets vs. New Orleans Pelicans 9:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Oklahoma City Thunder vs. Houston Rockets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba4c
 
+
 ############################
-# Denver Nuggets vs. Dallas Mavericks — 10:30 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Denver Nuggets vs. Dallas Mavericks 10:30 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# Milwaukee Bucks vs. San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Milwaukee Bucks vs. San Antonio Spurs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa5
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Denver Nuggets vs. Dallas Mavericks 10:30 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Milwaukee Bucks vs. San Antonio Spurs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Denver Nuggets vs. Dallas Mavericks 10:30 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Milwaukee Bucks vs. San Antonio Spurs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba5c
 
 
 ############################
-# New York Knicks vs. Sacramento Kings — 11:00 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Sacramento Kings 11:00 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# Utah Jazz vs. Dallas Mavericks
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Utah Jazz vs. Dallas Mavericks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa6
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Sacramento Kings 11:00 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Utah Jazz vs. Dallas Mavericks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Sacramento Kings 11:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Utah Jazz vs. Dallas Mavericks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba6c
 
 
 ############################
-# Washington Wizards vs. LA Clippers — 11:30 AM (PH)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Washington Wizards vs. LA Clippers 11:30 AM
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+# New York Knicks vs. Golden State Warriors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Golden State Warriors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
 https://shorten.is/nbaa7
 
-#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Washington Wizards vs. LA Clippers 11:30 AM
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Golden State Warriors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
 https://shorten.is/nba7
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Washington Wizards vs. LA Clippers 11:30 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux; en-US; rv:134.0esr) Gecko/20171519 Firefox/134.0esr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- New York Knicks vs. Golden State Warriors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://shorten.is/nba7c
+
+
+############################
+# Atlanta Hawks vs. Portland Trail Blazers
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Atlanta Hawks vs. Portland Trail Blazers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
+https://shorten.is/nbaa8
+
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Atlanta Hawks vs. Portland Trail Blazers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+https://shorten.is/nba8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Atlanta Hawks vs. Portland Trail Blazers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://shorten.is/nba8c
+
+
+############################
+# Charlotte Hornets vs. Los Angeles Lakers
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBA_League_Pass_Logo_%282017%29.png" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Charlotte Hornets vs. Los Angeles Lakers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/
+https://shorten.is/nbaa9
+
+#EXTINF:-1 tvg-logo="https://frontofficesports.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Charlotte Hornets vs. Los Angeles Lakers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+https://shorten.is/nba9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egcnYmO.jpeg" group-title="🏀 NBA LEAGUE PASS",NBA🏀- Charlotte Hornets vs. Los Angeles Lakers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://shorten.is/nba9c
+
 
 
 
